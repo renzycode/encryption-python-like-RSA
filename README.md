@@ -1,4 +1,6 @@
 # encryption-python-like-RSA
-Encryption python like RSA
+Simple Encryption and Decryption of text like RSA using python
 
-enter two key numbers seperated by space, it should be a prime number
+RSA is a public-key cryptosystem that is widely used for secure data transmission.
+It is also one of the oldest. The acronym "RSA" comes from the surnames of Ron Rivest, 
+Adi Shamir and Leonard Adleman, who publicly described the algorithm in 1977.
