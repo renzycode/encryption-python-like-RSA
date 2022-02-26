@@ -25,7 +25,7 @@ while run:
     for j in range(0, 10000):
         d = 1 + (j * z)
         d2 = d / public_key
-        if 0 == d% public_key:
+        if 0 == d % public_key:
             secret_key = round(d2)
             break
 
